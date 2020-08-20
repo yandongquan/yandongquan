@@ -16,7 +16,7 @@ I am a Java development engineer. My favorite sentence of writing code is that p
 
 > 😄 learning
 
-![Kafka](https://img.shields.io/badge/-Kafka-007396?style=flat-square&logo=Kafka&logoColor=fff)
+![Kafka](https://img.shields.io/badge/-Kafka-007396?style=flat-square&logo=Apache%20Kafka&logoColor=fff)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-A69C00?style=flat-square&logo=Kubernetes&logoColor=fff)
 ![Spring Cloud alibaba](https://img.shields.io/badge/-Spring_Cloud_alibaba-8B2374?style=flat-square&logo=Spring&logoColor=fff)
 
