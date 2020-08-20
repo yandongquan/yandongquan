@@ -9,7 +9,10 @@ Welcome to my page! <img src="https://camo.githubusercontent.com/35d3d11359a49bf
 I am a Java development engineer. My favorite sentence of writing code is that premature optimization is the source of evil. The code is constantly being optimized.
 
 
-## 🤦‍♂️� About Me
+<br>
+<br>
+
+## 🤦‍ About Me
 
 > 😄 learning
 
