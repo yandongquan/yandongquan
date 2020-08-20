@@ -6,11 +6,11 @@
 
 Welcome to my page! <img src="https://camo.githubusercontent.com/35d3d11359a49bf12aebb834cc13fd81b95eff4e/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="30"/>
 
-I am a Java development engineer. My favorite sentence of writing code is that premature optimization is the source of evil. The code is constantly being optimized.
+I am a Java development engineer. My favorite sentence of writing code is that premature optimization is the source of evil. Code needs to be continuously optimized!
 
 
 <br>
-<br>
+
 
 ## 🤦‍ About Me
 
