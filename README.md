@@ -16,7 +16,7 @@ I am a Java development engineer. My favorite sentence of writing code is that p
 
 > 😄 learning
 
-![Kafka](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Kafka&logoColor=fff)
+![Kafka](https://img.shields.io/badge/-Kafka-007396?style=flat-square&logo=Kafka&logoColor=fff)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-A69C00?style=flat-square&logo=Kubernetes&logoColor=fff)
 ![Spring Cloud alibaba](https://img.shields.io/badge/-Spring_Cloud_alibaba-8B2374?style=flat-square&logo=Spring&logoColor=fff)
 
@@ -46,3 +46,7 @@ I am a Java development engineer. My favorite sentence of writing code is that p
 ![Blog](https://img.shields.io/badge/-https://yandongquan.github.io-4B8BF5?style=flat-square&logo=Blogger&logoColor=fff)
 [![Email](https://img.shields.io/badge/-yandongquanlove@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=fff)](mailto:yandongquanlove@gmail.com)
 
+
+> 📫 Status
+
+![Blog](https://camo.githubusercontent.com/4a1373646ed18da95a6d86d4131e0f4ead0236fd/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f38333648694a633770677a7938694e58436e2f67697068792e676966)
