@@ -12,8 +12,8 @@ I am a Java development engineer. My favorite sentence of writing code is that p
 > 😄 I'm currently learning
 
 ![Kafka](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Kafka&logoColor=fff)
-![K8s](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=K8s&logoColor=fff)
-![Spring Cloud alibaba](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=Spring_Cloud_alibaba&logoColor=fff)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-A69C00?style=flat-square&logo=Kubernetes&logoColor=fff)
+![Spring Cloud alibaba](https://img.shields.io/badge/-Spring_Cloud_alibaba-8B2374?style=flat-square&logo=Spring&logoColor=fff)
 
 
 > 🎉 Skill list
@@ -21,10 +21,10 @@ I am a Java development engineer. My favorite sentence of writing code is that p
 ![Java](https://img.shields.io/badge/-Java-777BB4?style=flat-square&logo=Java&logoColor=fff)
 ![Redis](https://img.shields.io/badge/-Redis-00733E?style=flat-square&logo=Redis&logoColor=fff)
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-3E94D1?style=flat-square&logo=RabbitMQ&logoColor=fff)
-![Spring Boot](https://img.shields.io/badge/-Spring-777BB4?style=flat-square&logo=Spring_Boot&logoColor=fff)
-![Spring Cloud](https://img.shields.io/badge/-Spring-777BB4?style=flat-square&logo=Spring_Cloud&logoColor=fff)
-![Mybatis](https://img.shields.io/badge/-Spring-777BB4?style=flat-square&logo=Mybatis&logoColor=fff)
-![JPA](https://img.shields.io/badge/-Spring-777BB4?style=flat-square&logo=JPA&logoColor=fff)
+![Spring Boot](https://img.shields.io/badge/-Spring_Boot-5F9EA0?style=flat-square&logo=Spring&logoColor=fff)
+![Spring Cloud](https://img.shields.io/badge/-Spring_Cloud-2E8B57?style=flat-square&logo=Spring&logoColor=fff)
+![Mybatis](https://img.shields.io/badge/-Mybatis-FF8C00?style=flat-square&logo=Mybatis&logoColor=fff)
+![JPA](https://img.shields.io/badge/-Spring_data_jpa-A52A2A?style=flat-square&logo=Spring&logoColor=fff)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=fff)
 
 
