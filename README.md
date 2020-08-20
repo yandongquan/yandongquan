@@ -9,6 +9,10 @@ Welcome to my page! <img src="https://camo.githubusercontent.com/35d3d11359a49bf
 I am a Java development engineer. My favorite sentence of writing code is that premature optimization is the source of evil. The code is constantly being optimized.
 
 
+<br>
+
+<hr>
+
 > 😄 I'm currently learning
 
 ![Kafka](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Kafka&logoColor=fff)
