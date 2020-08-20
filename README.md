@@ -44,5 +44,5 @@ I am a Java development engineer. My favorite sentence of writing code is that p
 > 🐛 Contact
 
 ![Blog](https://img.shields.io/badge/-https://yandongquan.github.io-4B8BF5?style=flat-square&logo=Blogger&logoColor=fff)
-![Email](https://img.shields.io/badge/-yandongquanlove@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=fff)
+[![Email](https://img.shields.io/badge/-yandongquanlove@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=fff)](mailto:yandongquanlove@gmail.com)
 
