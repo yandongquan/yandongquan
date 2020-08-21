@@ -32,7 +32,7 @@ I am a Java development engineer. Not seeking to change the world, but seeking t
 ![JPA](https://img.shields.io/badge/-Spring_data_jpa-A52A2A?style=flat-square&logo=Spring&logoColor=fff)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=fff)
 
-> � Tools
+> 📫 Tools
 
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=IntelliJ%20IDEA&logoColor=fff)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=fff)
